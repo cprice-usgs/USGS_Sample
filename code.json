@@ -1,0 +1,46 @@
+[
+  {
+    "name": "USGS_Sample",
+    "organization": "U.S. Geological Survey",
+    "description": "ArcGIS tool for generating random samples",
+    "version": "1.0",
+    "status": "Provisional",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://github.com/cprice-usgs/USGS_Sample/blob/master/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://github.com/cprice-usgs/USGS_Sample/",
+    "downloadURL": "https://github.com/cprice-usgs/USGS_Sample/archive/master.zip",
+    "disclaimerURL": "https://github.com/cprice-usgs/USGS_Sample/blob/master/LICENSE.md",
+    "repositoryUrl": "https://github.com/cprice-usgs/USGS_Sample.git",
+    "vcs": "git",
+
+    "laborHours": null,
+
+    "tags": [
+      "TAG_1",
+      "TAG_2"
+    ],
+
+    "languages": [
+      "LANG_1",
+      "LANG_2"
+    ],
+
+    "contact": {
+      "name": "Curtis V. Price",
+      "email": "cprice@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2017-10-03"
+    }
+  }
+]
